@@ -25,3 +25,7 @@ Happy Open Sourcing!
 - [Caesar's Cipher](algorithms/Caesar's_cipher)
 - [Array Rotation By 1](algorithms/array_rotation_by_1)
 - [Magic Number](algorithms/magic_no/)
+- [Binary Search](algorithms/binary_search/)
+- [Bubble Sort Descending](algorithms/bubble_sort_descending/)
+- [Fibonacci Series](algorithms/fibonacci/)
+- [Selection Sort](algorithms/selection_sort/)
